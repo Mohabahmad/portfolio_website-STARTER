@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'What gpt-3',
+    description: "Using React, javaScript and Node.js you'll see the nice build of this wed app - from start to finish. The App is called What gpt-3  and it is a demo practesing my skills ,I will be happy to Y'all visit thank you.",
+      image: '/images/1stpro.png',
+      tags: ['javaScript','React', 'Node'],
+    source: 'https://github.com/Mohabahmad/first_project',
+    visit: 'https://first-project-ashen-five.vercel.app/',
     id: 0,
   },
   {

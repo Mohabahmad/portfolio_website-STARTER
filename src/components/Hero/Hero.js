@@ -14,7 +14,7 @@ const Hero = () => (
   <SectionText>
   "Passionate about creating seamless, user-centric interfaces that deliver both functionality and beauty with every click."
   </SectionText>
-  <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+  <Button onClick={() => window.location = '#about'}>Learn More</Button>
 </LeftSection>
 </Section>
 );
